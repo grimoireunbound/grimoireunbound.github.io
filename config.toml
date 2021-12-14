@@ -2,7 +2,7 @@ baseURL = "http://grimoireunbound.github.io/"
 languageCode = "en-us"
 title = "Grimoire Unbound"
 theme = "ananke"
-publishdir = "public"
+publishdir = "docs"
 
 [params]
 mainSections = ["GURPS (4e)", "D&D (3.5e)"]
