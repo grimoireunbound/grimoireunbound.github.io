@@ -10,10 +10,13 @@ description: "Dungeons and Dragons 3.5th edition"
 ## Dungeon Master's Guide
 
 The base rulebooks for all aspiring dungeon masters.
-- [Dungeon Master's Guide I](DungeonMastersGuide.pdf)
+
+[Dungeon Master's Guide I](DungeonMastersGuide.pdf)
 
 ## Player's Handbook
 
-The base set of character options and rules.
-- [Player's Handbook I](PlayersHandbook.pdf)
-- [Player's Handbook II](PlayersHandbookII.pdf)
+The base set of character options and rules includes:
+
+[Player's Handbook I](PlayersHandbook.pdf)
+
+[Player's Handbook II](PlayersHandbookII.pdf)
