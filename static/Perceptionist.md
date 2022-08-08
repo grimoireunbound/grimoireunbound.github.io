@@ -13,7 +13,7 @@ A master of the manipulation of memory, the psyche, and the perception of the wo
 
 `Weapon and Armor Proficiency`: A perceptionist is proficient with the club, dagger, heavy crossbow, light crossbow, and quarterstaff, but not with any type of armor or shield.
 
-`Spellcasting`: A perceptionist casts arcane spells, which are drawn from the dead necromancer's spell list. Like a sorcerer, they can cast any spell they know without preparing it ahead of time. When a perceptionist gains access to a new level of spells, they automatically knows all spells for that level given on the perceptionist's spell list. Perceptionists also have the option of adding to their existing spell list through their advanced learning ability as they increase in level (see below).
+`Spellcasting`: A perceptionist casts arcane spells, which are drawn from the perceptionist's spell list. Like a sorcerer, they can cast any spell they know without preparing it ahead of time. When a perceptionist gains access to a new level of spells, they automatically knows all spells for that level given on the perceptionist's spell list. Perceptionists also have the option of adding to their existing spell list through their advanced learning ability as they increase in level (see below).
 
 To cast a spell, a perceptionist must have a Intelligence score of 10 + the spell's level. The Difficulty Class for a saving throw against a perceptionist's spell is 10 + the spell's level + their Intelligence modifier. Like other spellcasters, a perceptionist can cast only a certain number of spells of each spell level per day. Their base daily spell allotment is given bellow. In addition, they receive bonus spells for a high Intelligence score (see Table 1—1 on page 8 of the Player's Handbook).
 
