@@ -16,4 +16,4 @@ The base rulebooks for all aspiring dungeon masters.
 
 The base set of character options and rules.
 - [Player's Handbook I](PlayersHandbook.pdf)
-- [Player's Handbook I](PlayersHandbookII.pdf)
+- [Player's Handbook II](PlayersHandbookII.pdf)
