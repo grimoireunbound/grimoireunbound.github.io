@@ -2,7 +2,7 @@
 A master of the manipulation of memory, the psyche, and the perception of the world.
 
 ### Hit Die
-d4
+`d4`
 
 ### Skills
 `Per Level`: 2 + Int
@@ -19,17 +19,25 @@ To cast a spell, a perceptionist must have a Intelligence score of 10 + the spel
 
 All spells cast by a perceptionist are considered mind-affecting.
 
+`False Reality (Su)`: Any creature who is charmed, under compulsion, or affected by a phantasm by the perceptionist can have their consious reality subtly altered. 
+The DC for resisting these effect is 10 + Class Level / 2 + Int bonus.
+
+#### Anmesia
+At first level the perceptionist gains the ability to make a creature so affected forget its time charmed. When the perceptionist sucessfully charms, compels, or phantasms a creature, they can choose to apply this effect. If they do, once the charm lifts, the creature must make a will save or forget their time under the charm. The missing time could instead be percived as a blackout, a drunken haze, a psychedelic trip, etc.
+
 `Advanced Learning (Ex)`: At 4th level, a perceptionist can add a new spell to their list, representing the result of personal study and experimentation. The spell must be a bard, cleric, or wizard spell of the Mind Affecting type, and of a level no higher than that of the highest-level spell the perceptionist already knows. Once a new spell is selected, it is added to that perceptionist's spell list and can be cast just like any other spell they know. If a spell is both a cleric spell and a wizard spell, use the lower of the two spell levels (when different) to determine what level the spell is for a perceptionist. A perceptionist gains an additional new spell at 8th, 12th, 16th, and 20th level.
+
+`Enchanting Aura (Su)`: *In Progress*
 
 # Advancement
 
 | Class Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                      | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th | 
 |:------------|:------------------|:----------|:---------|:----------|:-----------------------------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|1st          |+0                 |+0         |+0        |+2         |                              |3    | --- | --- | --- | --- | --- | --- | --- | --- |
+|1st          |+0                 |+0         |+0        |+2         |False Reality (Anmesia)       |3    | --- | --- | --- | --- | --- | --- | --- | --- |
 |2nd          |+1                 |+0         |+0        |+3         |                              |4    | --- | --- | --- | --- | --- | --- | --- | --- |
 |3rd          |+1                 |+1         |+1        |+3         |                              |5    | --- | --- | --- | --- | --- | --- | --- | --- |
 |4th          |+2                 |+1         |+1        |+4         |Advanced learning             |6    |3    | --- | --- | --- | --- | --- | --- | --- |
-|5th          |+2                 |+1         |+1        |+4         |                              |6    |4    | --- | --- | --- | --- | --- | --- | --- |
+|5th          |+2                 |+1         |+1        |+4         |Enchanting Aura               |6    |4    | --- | --- | --- | --- | --- | --- | --- |
 |6th          |+3                 |+2         |+2        |+5         |                              |6    |5    |3    | --- | --- | --- | --- | --- | --- |
 |7th          |+3                 |+2         |+2        |+5         |                              |6    |6    |4    | --- | --- | --- | --- | --- | --- |
 |8th          |+4                 |+2         |+2        |+6         |Advanced learning             |6    |6    |5    |3    | --- | --- | --- | --- | --- |
@@ -164,3 +172,7 @@ The following is the spell list for perceptionists. One must note that all perce
 ## Notes
 
 Maybe the power word spells should be added to the spell list?
+
+At higher levels False Reality effects might include creating illusions (major image, halluciatory terrain, ect.) that only the charmed creature can see, rewriting events that happened during the charm, or (at high levels) applying lingering effects of the charm.
+
+Other abilities might involve caster-level bonuses to illusions and enchantments. The ability to affect undead/constructs (in a limitted way) with mind-affecting effects. An enchanting aura that charms creatures (similar to a fear aura).
